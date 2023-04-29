@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/restaurant-finder/static/css/main.747404e5.css",
+    "main.js": "/restaurant-finder/static/js/main.081474bb.js",
+    "static/js/787.aa8f963b.chunk.js": "/restaurant-finder/static/js/787.aa8f963b.chunk.js",
+    "static/media/logo128.png": "/restaurant-finder/static/media/logo128.a5d372adde08be91fcbe.png",
+    "index.html": "/restaurant-finder/index.html",
+    "main.747404e5.css.map": "/restaurant-finder/static/css/main.747404e5.css.map",
+    "main.081474bb.js.map": "/restaurant-finder/static/js/main.081474bb.js.map",
+    "787.aa8f963b.chunk.js.map": "/restaurant-finder/static/js/787.aa8f963b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.747404e5.css",
+    "static/js/main.081474bb.js"
+  ]
+}
